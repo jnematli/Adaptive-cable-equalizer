@@ -22,8 +22,13 @@ PCB build-up:
 ![75ohm](https://github.com/jnematli/Adaptive-cable-equalizer/assets/159630451/0eb72c0f-7151-4ec8-a544-0889e5ec9637)
 
 Design rules:
+
 •	The outputs should be symmetrical, the transmission lines at the output should be of the same size.
+
 •	Put components closer to the IC to minimize loop area.
+
 •	Put decoupling capacitors for Vcc to reduce noise.
+
 •	Put transistor to the side of the PCB for the possibility to attach a heat sink.
+
 •	Thermal spacing (already mentioned in the DRC).
