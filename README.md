@@ -1,5 +1,5 @@
-# Adaptive-cable-equalizer
-This project was a part of my Hardware Design course at KU Leuven Campus Group T.
+# GS3440-Adaptive-cable-equalizer
+This project was a part of my Hardware Design course at KU Leuven Campus Group T. The PCB was built using Autodesk Eagle.
 
 PCB top side:
 
