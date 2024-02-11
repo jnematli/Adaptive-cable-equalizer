@@ -1,0 +1,24 @@
+Qty;Value;Device;Package;Parts;Description;AVAILABILITY;BOM;DESCRIPTION;MF;MP;MPN;OC_FARNELL;OC_NEWARK;PACKAGE;POPULARITY;PRICE;TP_SIGNAL_NAME
+2;;4MMSOCKET;4MM;JP1, JP2;4MM SOCKET;;;;;;;;;;;;
+2;;JP1E;JP1;JP3, JP4;JUMPER;;;;;;;;;;61;;
+1;;LEDCHIP-LED0805;CHIP-LED0805;LED1;LED;;;;;;;;;;68;;
+1;100k;R0402;402;R5;;;;;;;;;;;;;
+1;100nF;C0402;402;C3;;;;;;;;;;;;;
+2;10nF;C0402;402;C8, C9;;;;;;;;;;;;;
+1;10uF;C0402;402;C4;;;;;;;;;;;;;
+1;14k;R0402;402;R1;;;;;;;;;;;;;
+2;1uF;C0402;402;C1, C2;;;;;;;;;;;;;
+1;219-02J;219-02J;CTS-219-02J;S2;Surface Mount DIP Switch Series 219 SMT;;;;;;;unknown;unknown;;;;
+1;221;R0402;402;R6;;;;;;;;;;;;;
+1;37.4;R0402;402;R3;;;;;;;;;;;;;
+1;470nF;C0402;402;C7;;;;;;;;;;;;;
+2;4u7;C0402;402;C5, C6;;;;;;;;;;;;;
+2;5k;TRIM_EU-3223W;3223W;R7, R8;POTENTIOMETER;;;;;;;;;;0;;
+1;6n2;L0402;402;L1;;;;;;;;;;;;;
+2;75;R0402;402;R2, R4;;;;;;;;;;;;;
+4;FID_20MIL;FID_20MIL;FID_020;FD1, FD2, FD3, FD4;Fiducial marks. Top and Bottom copper with stop mask;;;;;;;;;;;;
+1;GS3440GS3440NEW;GS3440GS3440NEW;QFN65P400X400X90-17T260N;IC1;Adaptive Cable Equalizer;;;;;;;;;;;;
+1;HD-BNC;HD-BNC;034_1018_12G;X1;HD BNC 75 Ohm;;;;;;;;;;;;
+1;MMBT3904;MMBT3904;SOT95P240X120-3N;Q1;MMBT3904 Series 40 V CE Breakdown 0.2 A NPN General Purpose Amplifier - SOT-23 Check availability;;; Bipolar (BJT) Transistor NPN 40V 200mA 300MHz 300mW Surface Mount SOT-23-3 ;STMicroelectronics;MMBT3904;;;;SOT-23 ON;;None;
+2;SMA132357;SMA132357;SMA;X2, X3;SMA 50 Ohm End Launch Jack Receptacle - Round Contact;;;;;;;;;;;;
+2;TPTP06R;TPTP06R;TP06R;TP1, TP2;Test pad;;;;;;;;;;1;;
