@@ -3,11 +3,11 @@ This project was a part of my Hardware Design course at KU Leuven Campus Group T
 
 PCB top side:
 
-![equalizertop](https://github.com/jnematli/Adaptive-cable-equalizer/assets/159630451/99c5c5fd-23aa-424a-a9d3-805caf72397d)
+![equalizertop](https://github.com/jnematli/Adaptive-cable-equalizer/assets/159630451/9f637634-131e-4b59-bf15-ef1ac5d7d46e)
 
 PCB bottom side:
 
-![equalizerbottom](https://github.com/jnematli/Adaptive-cable-equalizer/assets/159630451/df6eec73-691e-4dda-ac43-8a777c95b3dc)
+![equalizerbottom](https://github.com/jnematli/Adaptive-cable-equalizer/assets/159630451/cdf225ae-4bd3-4c93-81c2-00dac73a9153)
 
 PCB build-up:
 
