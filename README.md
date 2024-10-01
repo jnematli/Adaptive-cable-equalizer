@@ -9,10 +9,6 @@ PCB bottom side:
 
 ![equalizerbottom](https://github.com/jnematli/Adaptive-cable-equalizer/assets/159630451/cdf225ae-4bd3-4c93-81c2-00dac73a9153)
 
-PCB build-up:
-
-![build-up](https://github.com/jnematli/Adaptive-cable-equalizer/assets/159630451/ee0155b9-3ddb-42c2-bf79-70c1b82f9679)
-
 50 Ohm transmission line:
 
 ![50ohm](https://github.com/jnematli/Adaptive-cable-equalizer/assets/159630451/c35ae1a7-92aa-4136-9f60-a51dc8747b9b)
